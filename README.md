@@ -40,3 +40,8 @@ This project was a valuable learning experience in deep learning and neural netw
 
 I would like to thank my instructors and peers for their support and guidance throughout this assignment.
 
+## Contact
+
+1) Email :- harshbhanushali.ai@gamil.com
+2) Linkdin :- Linkdin Profile[https://www.linkedin.com/in/harsh-bhanushali-439790253/]
+
