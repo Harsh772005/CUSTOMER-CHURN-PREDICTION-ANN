@@ -43,5 +43,5 @@ I would like to thank my instructors and peers for their support and guidance th
 ## Contact
 
 1) Email :- harshbhanushali.ai@gamil.com
-2) Linkdin :- (Linkdin Profile)[https://www.linkedin.com/in/harsh-bhanushali-439790253/]
+2) Linkdin :- [Linkdin Profile](https://www.linkedin.com/in/harsh-bhanushali-439790253/)
 
